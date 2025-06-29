@@ -1,0 +1,37 @@
+inserir L1 5 a b o b o
+inserir L1 2 r a
+inserir L1 1 _
+inserir L1 7 a m a r e l a
+inserir L1 1 _
+inserir L1 6 g r a n d e
+inserir L2 6 _ m e s m o
+mostrar L1 N
+mostrar L2 N
+removerTodos L2
+mostrar L2 N
+inserir L2 6 _ m e s m o
+mostrar L2 N
+acrescentar 3
+mostrar L1 N
+mostrar L1 I
+mostrar L2 N
+mostrar L2 I
+removerTodos L1
+removerTodos L2
+inserir L1 7 a b o b o r a
+mostrar L1 N
+removeNFim 3
+mostrar L1 N
+mostrar L1 I
+removerTodos L1
+inserir L1 7 a b o b o r a
+mostrar L1 N
+removeNFim 6
+mostrar L1 N
+mostrar L1 I
+removerTodos L1
+inserir L1 7 a b o b o r a
+mostrar L1 N
+removeIntervalo 0 3
+mostrar L1 N
+mostrar L1 I

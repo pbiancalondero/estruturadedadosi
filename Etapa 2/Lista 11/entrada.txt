@@ -1,0 +1,48 @@
+mostra L1 I
+mostra L2 I
+adiciona L1 10
+adiciona L1 2
+adiciona L1 3
+adiciona L1 40
+adiciona L2 50
+adiciona L2 2
+adiciona L2 3
+adiciona L2 6
+adiciona L2 70
+mostra L1 D
+mostra L1 C
+mostra L1 I
+mostra L2 I
+mostraDif L1 L2
+mostraDif L2 L1
+mostra L1 C
+mostra L2 C
+mediana L1
+mediana L2
+removeTodos L1
+mostraDif L2 L1
+mostraDif L1 L2
+mediana L1
+adiciona L1 10
+mostra L1 C
+mediana L1
+adiciona L1 20
+mostra L1 C
+mediana L1
+adiciona L2 2
+adiciona L2 2
+adiciona L2 3
+adiciona L2 3
+adiciona L2 3
+mostra L2 I
+moda L2
+adiciona L2 2
+mostra L2 I
+moda L2
+removeTodos L2
+mostra L2 C
+moda L2
+adiciona L2 1
+adiciona L2 2
+mostra L2 C
+moda L2

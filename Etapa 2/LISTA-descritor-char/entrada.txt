@@ -1,0 +1,20 @@
+mostrar L1 N
+inserir L1 6 a b o b o r
+inserir L1 1 a
+mostrar L1 N
+mostrar L1 I
+inserirCaractereApos L1 W o
+mostrar L1 N
+inserirCaractereApos L1 Z a
+mostrar L1 N
+mostrar L1 I
+inserir L2 5 t e s t e
+substituir L2 2 b o
+inserir L3 3 K P T
+mostrar L1 N
+mostrar L2 N
+mostrar L3 N
+contarOcorrencia L1 L2
+inserirAntesPrimeiraOcorrencia L1 L2 L3
+mostrar L1 N
+mostrar L1 I
